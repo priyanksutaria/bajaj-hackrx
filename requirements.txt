@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+httpx
+requests
+pydantic
+python-multipart
+pdfplumber
+PyMuPDF
+sentence-transformers
+faiss-cpu
+huggingface-hub
+python-dotenv
