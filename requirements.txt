@@ -10,3 +10,4 @@ sentence-transformers
 faiss-cpu
 huggingface-hub
 python-dotenv
+python-docx
