@@ -11,4 +11,3 @@ faiss-cpu
 huggingface-hub
 python-dotenv
 python-docx
-pickle
